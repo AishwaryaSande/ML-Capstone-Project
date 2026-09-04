@@ -27,3 +27,6 @@ dist/
 # Temporary files
 *.tmp
 *.log
+
+# Large Emotion dataset
+data/emotion/fer2013.csv
