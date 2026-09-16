@@ -29,4 +29,4 @@ dist/
 *.log
 
 # Large Emotion dataset
-data/emotion/fer2013.csv
+data/emotion/fer2013.csvdata/emotions/
