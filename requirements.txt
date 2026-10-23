@@ -3,5 +3,8 @@ pandas
 matplotlib
 seaborn
 scikit-learn
+scipy
+pillow
 jupyter
 joblib
+streamlit
