@@ -62,7 +62,7 @@ ML-Capstone-Project-main/
 
 ## Features
 
-### 🌾 1. Crop-Yield Prediction — Regression
+### 1. Crop-Yield Prediction — Regression
 
 - Uses the bundled crop-yield dataset or a user-provided CSV.
 - Uses crop and country/area information alongside year, rainfall, pesticide usage, and average temperature.
@@ -75,7 +75,7 @@ ML-Capstone-Project-main/
 
 The bundled dataset should include the columns used by the application, including `Area`, `Item`, `Year`, `average_rain_fall_mm_per_year`, `pesticides_tonnes`, `avg_temp`, and `hg/ha_yield`.
 
-### 😀 2. Facial-Emotion Recognition — Classification
+### 2. Facial-Emotion Recognition — Classification
 
 - Supports training from a user-supplied `fer2013.csv` dataset or loading a previously saved model.
 - Supports facial-image input through the GUI.
@@ -86,7 +86,7 @@ The bundled dataset should include the columns used by the application, includin
 
 **Important:** `fer2013.csv` is not bundled in this repository. Obtain the dataset from a source you are authorized to use, then select it in the application. A saved model may also be loaded as a `.pkl` or `.joblib` file. Only load model files you trust.
 
-### 🌍 3. Earthquake-Zone Analysis — Clustering
+### 3. Earthquake-Zone Analysis — Clustering
 
 - Uses the bundled earthquake catalogue or a user-provided CSV.
 - Clusters events by geographic location and depth.
