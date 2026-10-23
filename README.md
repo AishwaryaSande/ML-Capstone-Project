@@ -3,6 +3,11 @@
 **Machine Learning Capstone Project — DATA MINDS**
 
 An interactive machine-learning application that brings together three ML tasks in one Streamlit interface:
+## 🚀 Live Demo
+
+**Try the deployed ML Capstone Studio:** [Launch the Application](https://ml-capstone-project-hpar5wqlwxmjjfbcnwypml.streamlit.app/)
+
+
 
 - **Regression:** Crop-yield prediction
 - **Classification:** Facial-emotion recognition using FER2013
